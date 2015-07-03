@@ -42,6 +42,8 @@ Docker化应用的文档合集
     [docker-gitlab-ci](https://github.com/Dockerlover/docker-gitlab-ci)
     
     [docker-apt-cacher-ng](https://github.com/Dockerlover/docker-apt-cacher-ng)
+
+    [docker-2048](https://github.com/Dockerlover/docker-2048)
     
   4. 服务与发现
   
