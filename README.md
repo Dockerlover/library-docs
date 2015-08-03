@@ -25,6 +25,7 @@ Docker化应用的文档合集
     
     [docker-nodejs](https://github.com/Dockerlover/docker-nodejs)
     
+    [docker-ruby](https://github.com/Dockerlover/docker-ruby)
   
   2. 集成开发环境
   
@@ -33,6 +34,8 @@ Docker化应用的文档合集
     [docker-lamp](https://github.com/Dockerlover/docker-lamp)
     
     [docker-angularjs](https://github.com/Dockerlover/docker-angularjs)
+
+    [docker-rails](https://github.com/Dockerlover/docker-rails)
   
   3. 特定应用
     
@@ -40,13 +43,15 @@ Docker化应用的文档合集
     
     [docker-gitlab](https://github.com/Dockerlover/docker-gitlab)
     
-    [docker-gitlab-ci](https://github.com/Dockerlover/docker-gitlab-ci)
-    
     [docker-apt-cacher-ng](https://github.com/Dockerlover/docker-apt-cacher-ng)
 
     [docker-2048](https://github.com/Dockerlover/docker-2048)
     
-    [docker-docs](https://github.com/Dockerlover/docker-docs)
+    [docker-gitbook](https://github.com/Dockerlover/docker-gitbook)
+    
+    [docker-wecenter](https://github.com/Dockerlover/docker-wecenter)
+    
+    [docker-kityminder](https://github.com/Dockerlover/docker-kityminder)
     
   4. 服务与发现
   
@@ -59,7 +64,3 @@ Docker化应用的文档合集
   5. 控制台
   
     [docker-paas](https://github.com/Dockerlover/docker-paas)
-  
-    
-    
-    
