@@ -57,6 +57,8 @@ Docker化应用的文档合集
     
     *docker-typo
     
+    *docker-floppybird
+    
   4. 服务与发现
   
     [docker-etcd](https://github.com/Dockerlover/docker-etcd)
