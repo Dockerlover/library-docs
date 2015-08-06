@@ -53,6 +53,10 @@ Docker化应用的文档合集
     
     [docker-kityminder](https://github.com/Dockerlover/docker-kityminder)
     
+    *docker-redmine
+    
+    *docker-typo
+    
   4. 服务与发现
   
     [docker-etcd](https://github.com/Dockerlover/docker-etcd)
