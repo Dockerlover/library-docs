@@ -34,6 +34,10 @@ Docker化应用的文档合集
     *docker-java
     
     *docker-perl
+    
+    *docker-scala
+    
+    *docker-erlang
   
   2. 集成开发环境
   
