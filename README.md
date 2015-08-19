@@ -26,6 +26,8 @@ Docker化应用的文档合集
     [docker-nodejs](https://github.com/Dockerlover/docker-nodejs)
     
     [docker-ruby](https://github.com/Dockerlover/docker-ruby)
+
+    *docker-golang
   
   2. 集成开发环境
   
@@ -36,8 +38,6 @@ Docker化应用的文档合集
     [docker-angularjs](https://github.com/Dockerlover/docker-angularjs)
 
     [docker-rails](https://github.com/Dockerlover/docker-rails)
-    
-    *docker-golang
   
   3. 特定应用
     
