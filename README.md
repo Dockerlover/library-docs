@@ -36,6 +36,8 @@ Docker化应用的文档合集
     [docker-angularjs](https://github.com/Dockerlover/docker-angularjs)
 
     [docker-rails](https://github.com/Dockerlover/docker-rails)
+    
+    *docker-golang
   
   3. 特定应用
     
@@ -59,6 +61,8 @@ Docker化应用的文档合集
     
     *docker-floppybird
     
+    *docker-ghost
+    
   4. 服务与发现
   
     [docker-etcd](https://github.com/Dockerlover/docker-etcd)
@@ -69,4 +73,4 @@ Docker化应用的文档合集
   
   5. 控制台
   
-    [docker-paas](https://github.com/Dockerlover/docker-paas)
+    [docker-console](https://github.com/Dockerlover/docker-console)
