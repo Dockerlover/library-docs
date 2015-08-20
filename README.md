@@ -69,7 +69,7 @@ Docker化应用的文档合集
     
     *docker-typo
     
-    *docker-floppybird
+    [docker-floppybird](https://github.com/Dockerlover/docker-floppybird)
     
     *docker-ghost
     
