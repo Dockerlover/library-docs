@@ -27,7 +27,7 @@ Docker化应用的文档合集
     
     [docker-ruby](https://github.com/Dockerlover/docker-ruby)
 
-    *docker-golang
+    [docker-golang](https://github.com/Dockerlover/docker-golang)
     
     [docker-asp.net](https://github.com/Dockerlover/docker-asp.net)
     
